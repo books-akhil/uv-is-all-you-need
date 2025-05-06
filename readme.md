@@ -59,3 +59,8 @@ uvx ruff
 ```shell
 uv tool list
 ```
+
+## Workspaces
+
+Add a project in another project
+
